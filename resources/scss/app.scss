@@ -1,0 +1,11 @@
+@use '~bootstrap/scss/bootstrap';
+@use './partials/main';
+
+
+.books {
+    margin: 2rem 0;
+
+    .card {
+        box-shadow: 0 0 10px gray;
+    }
+}
